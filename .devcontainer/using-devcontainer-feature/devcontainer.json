@@ -51,6 +51,7 @@
       ],
       "settings": {
         "MATLAB.signIn": true,
+        "MATLAB.installPath": "/opt/matlab/R2024b",
         // Marks MATLAB Kernel as a trusted source
         "jupyter.kernels.trusted": [
           "/usr/share/jupyter/kernels/jupyter_matlab_kernel/kernel.json"
